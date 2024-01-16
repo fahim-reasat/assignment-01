@@ -1,0 +1,50 @@
+/* common shared styles*/
+
+
+/* header related styles*/
+.banner{
+    background-image: url('resources/Banner\ Image.png');
+    background-repeat: no-repeat;
+    color: white;
+    width: 1320px;
+    height: 600px;
+    border-radius: 15px;
+    padding: ;
+    justify-content: center;
+}
+
+.banner-title{
+    text-align: center;
+    font-size: 32px;
+    font-weight: 400px;
+}
+
+.banner-heading{
+    color: white;
+    text-align: center;
+    font-size: 72px;
+    font-weight: 900;
+    line-height: 95px;
+
+}
+
+/* main reated styles*/
+
+#discount-percent{
+    color: red;
+    font-size: 88px;
+    text-align: center;
+    font-weight: 700;
+    line-height: normal;
+}
+
+#discount-description{
+    color: red;
+    text-align: center;
+}
+
+#discount-title{
+    text-align: center;
+    font-size: 70px;
+}
+/* footer related styles*/
