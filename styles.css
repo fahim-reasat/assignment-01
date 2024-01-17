@@ -112,5 +112,16 @@
 #fifty-parcnt-offers{
     font-size: 60px;
 }
+
+.portfolio{
+    width: 1400px;
+    height: 1200px;
+    justify-content: center;
+    margin: 50px 50px;
+}
+
+#portfolio-heading{
+    font-size: 60px;
+}
     
 /* footer related styles*/
